@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "xP+ORUhLVl+2jXL8BIcNo40Gg+SvtMEa0ErdnaPPc96Au1OyVPwIbZPogjhhYlNGAJEY+TSwmcoVKsZgmL/ZVQ==",
+  "success": false,
+  "projectFilePath": "C:\\laragon\\www\\repos_laragon\\CDA\\Exercice\\POO\\ExoPooAvecSophie\\ExoPDF3\\CompteBancaire\\FormCompteBancaire\\FormCompteBancaire.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\laragon\\www\\repos_laragon\\CDA\\Exercice\\POO\\ExoPooAvecSophie\\ExoPDF3\\CompteBancaire\\CompteBancaires\\CompteBancaire.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "libraryId": "C:\\laragon\\www\\repos_laragon\\CDA\\Exercice\\POO\\ExoPooAvecSophie\\ExoPDF3\\CompteBancaire\\CompteBancaires\\CompteBancaire.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

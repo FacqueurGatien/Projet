@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "BBErrorPersonalise/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BBErrorPersonalise.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BBErrorPersonalise.dll": {}
+        }
+      },
+      "BBSaisieUtilisateur/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BBErrorPersonalise": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BBSaisieUtilisateur.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BBSaisieUtilisateur.dll": {}
+        }
+      },
+      "BBSaisieUtilisateurModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BBErrorPersonalise": "1.0.0",
+          "BBSaisieUtilisateur": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BBSaisieUtilisateurModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BBSaisieUtilisateurModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BBErrorPersonalise/1.0.0": {
+      "type": "project",
+      "path": "../BBErrorPersonalise/BBErrorPersonalise.csproj",
+      "msbuildProject": "../BBErrorPersonalise/BBErrorPersonalise.csproj"
+    },
+    "BBSaisieUtilisateur/1.0.0": {
+      "type": "project",
+      "path": "../SaisieUtilisateur/BBSaisieUtilisateur.csproj",
+      "msbuildProject": "../SaisieUtilisateur/BBSaisieUtilisateur.csproj"
+    },
+    "BBSaisieUtilisateurModel/1.0.0": {
+      "type": "project",
+      "path": "../SaisieUtilisateurModel/BBSaisieUtilisateurModel.csproj",
+      "msbuildProject": "../SaisieUtilisateurModel/BBSaisieUtilisateurModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "BBErrorPersonalise >= 1.0.0",
+      "BBSaisieUtilisateurModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shadow\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj",
+      "projectName": "BBSaisieUtilisateurWinform",
+      "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj",
+      "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj": {
+              "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj"
+            },
+            "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj": {
+              "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

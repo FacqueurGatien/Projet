@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JavaquariumRe.Aquarium" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAACAAQAAgEQAAIBEAIAADACQAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Aquarium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Carnivore" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Carnivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Comportement_Sexe" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comportement_Sexe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Forme_de_vie_aquatique" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgEAAAAAAQAAAAEMIIEADACBCAAABUhAAABAQAYQ=</HashCode>
+      <FileName>Forme_de_vie_aquatique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Herbivore">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Herbivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Hermaphrodite_avec_le_temps" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Hermaphrodite_avec_le_temps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Hermaphrodite_opportuniste" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hermaphrodite_opportuniste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Monosexue" Collapsed="true">
+    <Position X="5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monosexue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Photosynthese">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Photosynthese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Plante" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIAAAACAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Pl_algue" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQQ=</HashCode>
+      <FileName>Pl_algue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Poisson">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIAAAACAEAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Poisson.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="regime_Alimentaire" />
+      <Field Name="sexe" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="JavaquariumRe.P_bar" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_bar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.P_carpe" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_carpe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.P_merou" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_merou.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.P_poisson_clown" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_poisson_clown.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.P_sole" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_sole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.P_thon" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAIAEAAAAAAAAABAAAAAAAAAQA=</HashCode>
+      <FileName>P_thon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JavaquariumRe.Regime_alimentaire">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Regime_alimentaire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

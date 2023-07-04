@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AAAdittionneurWinform/1.0.0": {
+        "dependencies": {
+          "AAAdditionneurModel": "1.0.0"
+        },
+        "runtime": {
+          "AAAdittionneurWinform.dll": {}
+        }
+      },
+      "AAAdditionneurModel/1.0.0": {
+        "runtime": {
+          "AAAdditionneurModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AAAdittionneurWinform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AAAdditionneurModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

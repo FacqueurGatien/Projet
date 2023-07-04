@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BBSaisieUtilisateurModel/1.0.0": {
+        "dependencies": {
+          "BBErrorPersonalise": "1.0.0",
+          "BBSaisieUtilisateur": "1.0.0"
+        },
+        "runtime": {
+          "BBSaisieUtilisateurModel.dll": {}
+        }
+      },
+      "BBErrorPersonalise/1.0.0": {
+        "runtime": {
+          "BBErrorPersonalise.dll": {}
+        }
+      },
+      "BBSaisieUtilisateur/1.0.0": {
+        "dependencies": {
+          "BBErrorPersonalise": "1.0.0"
+        },
+        "runtime": {
+          "BBSaisieUtilisateur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BBSaisieUtilisateurModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BBErrorPersonalise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BBSaisieUtilisateur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

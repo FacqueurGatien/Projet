@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZZZTchatWinform/1.0.0": {
+        "dependencies": {
+          "ZZZClientTchat": "1.0.0",
+          "ZZZServerTchat": "1.0.0"
+        },
+        "runtime": {
+          "ZZZTchatWinform.dll": {}
+        }
+      },
+      "ZZZClientTchat/1.0.0": {
+        "runtime": {
+          "ZZZClientTchat.dll": {}
+        }
+      },
+      "ZZZServerTchat/1.0.0": {
+        "runtime": {
+          "ZZZServerTchat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZZZTchatWinform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZZZClientTchat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZZZServerTchat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

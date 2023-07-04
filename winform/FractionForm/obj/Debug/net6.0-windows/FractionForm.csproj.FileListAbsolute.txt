@@ -1,0 +1,17 @@
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\bin\Debug\net6.0-windows\FractionForm.exe
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\bin\Debug\net6.0-windows\FractionForm.deps.json
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\bin\Debug\net6.0-windows\FractionForm.runtimeconfig.json
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\bin\Debug\net6.0-windows\FractionForm.dll
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\bin\Debug\net6.0-windows\FractionForm.pdb
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.Form1.resources
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.csproj.GenerateResource.cache
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.AssemblyInfo.cs
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.dll
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\refint\FractionForm.dll
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.pdb
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\FractionForm.genruntimeconfig.cache
+C:\Users\Stagiaire\Log\Laragon\www\CDA\Exercice\POO\Exo_POO_cs\FractionForm\obj\Debug\net6.0-windows\ref\FractionForm.dll

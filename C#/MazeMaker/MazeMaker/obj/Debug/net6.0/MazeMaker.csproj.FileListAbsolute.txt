@@ -1,0 +1,15 @@
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\bin\Debug\net6.0\MazeMaker.exe
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\bin\Debug\net6.0\MazeMaker.deps.json
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\bin\Debug\net6.0\MazeMaker.runtimeconfig.json
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\bin\Debug\net6.0\MazeMaker.dll
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\bin\Debug\net6.0\MazeMaker.pdb
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.csproj.AssemblyReference.cache
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.AssemblyInfoInputs.cache
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.AssemblyInfo.cs
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.csproj.CoreCompileInputs.cache
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.dll
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\refint\MazeMaker.dll
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.pdb
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\MazeMaker.genruntimeconfig.cache
+C:\Users\gafacqueur\Desktop\MazeMaker\MazeMaker\obj\Debug\net6.0\ref\MazeMaker.dll

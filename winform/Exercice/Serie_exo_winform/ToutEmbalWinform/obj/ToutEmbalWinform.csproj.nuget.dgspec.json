@@ -1,0 +1,1135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalWinform\\ToutEmbalWinform.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\AAAdittionneurWinform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\AAAdittionneurWinform.csproj",
+        "projectName": "AAAdittionneurWinform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\AAAdittionneurWinform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\AAAdditionneurModel.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\AAAdditionneurModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj",
+        "projectName": "BBErrorPersonalise",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\CCTextFormatter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\CCTextFormatter.csproj",
+        "projectName": "CCTextFormatter",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\CCTextFormatter.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\AAAdditionneurModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\AAAdditionneurModel.csproj",
+        "projectName": "AAAdditionneurModel",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\AAAdditionneurModel.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ClasseExo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\DDListBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\DDListBox.csproj",
+        "projectName": "DDListBox",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\DDListBox.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj",
+        "projectName": "EEListBox2Model",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\EEListBox2Winform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\EEListBox2Winform.csproj",
+        "projectName": "EEListBox2Winform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\EEListBox2Winform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\FFColorPreview.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\FFColorPreview.csproj",
+        "projectName": "FFColorPreview",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\FFColorPreview.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\GGSytheseEmpruntModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\GGSytheseEmpruntModel.csproj",
+        "projectName": "GGSytheseEmpruntModel",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\GGSytheseEmpruntModel.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Model\\EEListBox2Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\GGSytheseEmpruntWinform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\GGSytheseEmpruntWinform.csproj",
+        "projectName": "GGSytheseEmpruntWinform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\GGSytheseEmpruntWinform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\GGSytheseEmpruntModel.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntModel\\GGSytheseEmpruntModel.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\HHPhase4Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\HHPhase4Lib.csproj",
+        "projectName": "HHPhase4Lib",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\HHPhase4Lib.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\HHPhase4Winform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\HHPhase4Winform.csproj",
+        "projectName": "HHPhase4Winform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\HHPhase4Winform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\AAAdittionneurWinform.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\AdittionneurWinform\\AAAdittionneurWinform.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\CCTextFormatter.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\CCTextFormatter\\CCTextFormatter.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\DDListBox.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\DDListBox\\DDListBox.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\EEListBox2Winform.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\EEListBox2Winform\\EEListBox2Winform.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\FFColorPreview.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\FFColorPreview\\FFColorPreview.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\GGSytheseEmpruntWinform.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\GGSytheseEmpruntWinform\\GGSytheseEmpruntWinform.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\HHPhase4Lib.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4Lib\\HHPhase4Lib.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj",
+        "projectName": "BBSaisieUtilisateurModel",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj",
+        "projectName": "BBSaisieUtilisateurWinform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\BBSaisieUtilisateurWinform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurWinform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateurModel\\BBSaisieUtilisateurModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj",
+        "projectName": "BBSaisieUtilisateur",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\BBSaisieUtilisateur.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\SaisieUtilisateur\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\BBErrorPersonalise\\BBErrorPersonalise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\ToutEmbalModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\ToutEmbalModel.csproj",
+        "projectName": "ToutEmbalModel",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\ToutEmbalModel.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalWinform\\ToutEmbalWinform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalWinform\\ToutEmbalWinform.csproj",
+        "projectName": "ToutEmbalWinform",
+        "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalWinform\\ToutEmbalWinform.csproj",
+        "packagesPath": "C:\\Users\\Shadow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalWinform\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shadow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\HHPhase4Winform.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\HHPhase4\\HHPhase4Winform.csproj"
+              },
+              "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\ToutEmbalModel.csproj": {
+                "projectPath": "C:\\Users\\Shadow\\Documents\\toutembal\\CDA_2210_Winform\\Winform\\Exercice\\Serie_exo_winform\\ToutEmbalModel\\ToutEmbalModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

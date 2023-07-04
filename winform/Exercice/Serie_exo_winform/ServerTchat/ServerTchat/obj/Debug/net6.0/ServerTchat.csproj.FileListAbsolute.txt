@@ -1,0 +1,15 @@
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\bin\Debug\net6.0\ServerTchat.exe
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\bin\Debug\net6.0\ServerTchat.deps.json
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\bin\Debug\net6.0\ServerTchat.runtimeconfig.json
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\bin\Debug\net6.0\ServerTchat.dll
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\bin\Debug\net6.0\ServerTchat.pdb
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.csproj.AssemblyReference.cache
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.AssemblyInfoInputs.cache
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.AssemblyInfo.cs
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.dll
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\refint\ServerTchat.dll
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.pdb
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ServerTchat.genruntimeconfig.cache
+C:\Users\Shadow\Documents\tchat\ServerTchat\ServerTchat\obj\Debug\net6.0\ref\ServerTchat.dll

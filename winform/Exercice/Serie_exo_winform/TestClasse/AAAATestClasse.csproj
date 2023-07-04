@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClasseExo\AAAdditionneurModel.csproj" />
+    <ProjectReference Include="..\EEListBox2Model\EEListBox2Model.csproj" />
+    <ProjectReference Include="..\GGSytheseEmpruntModel\GGSytheseEmpruntModel.csproj" />
+    <ProjectReference Include="..\HHPhase4Lib\HHPhase4Lib.csproj" />
+    <ProjectReference Include="..\SaisieUtilisateurModel\BBSaisieUtilisateurModel.csproj" />
+  </ItemGroup>
+
+</Project>

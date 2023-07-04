@@ -1,0 +1,15 @@
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\bin\Debug\net6.0\CompteBancaire.exe
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\bin\Debug\net6.0\CompteBancaire.deps.json
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\bin\Debug\net6.0\CompteBancaire.runtimeconfig.json
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\bin\Debug\net6.0\CompteBancaire.dll
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\bin\Debug\net6.0\CompteBancaire.pdb
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.csproj.AssemblyReference.cache
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.AssemblyInfo.cs
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.dll
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\refint\CompteBancaire.dll
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.pdb
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\CompteBancaire.genruntimeconfig.cache
+C:\laragon\www\repos_laragon\CDA\Exercice\POO\ExoPooAvecSophie\ExoPDF3\CompteBancaire\CompteBancaire\obj\Debug\net6.0\ref\CompteBancaire.dll

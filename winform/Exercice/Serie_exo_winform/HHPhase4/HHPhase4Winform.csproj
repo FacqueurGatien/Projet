@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdittionneurWinform\AAAdittionneurWinform.csproj" />
+    <ProjectReference Include="..\CCTextFormatter\CCTextFormatter.csproj" />
+    <ProjectReference Include="..\DDListBox\DDListBox.csproj" />
+    <ProjectReference Include="..\EEListBox2Winform\EEListBox2Winform.csproj" />
+    <ProjectReference Include="..\FFColorPreview\FFColorPreview.csproj" />
+    <ProjectReference Include="..\GGSytheseEmpruntWinform\GGSytheseEmpruntWinform.csproj" />
+    <ProjectReference Include="..\HHPhase4Lib\HHPhase4Lib.csproj" />
+    <ProjectReference Include="..\SaisieUtilisateurWinform\BBSaisieUtilisateurWinform.csproj" />
+  </ItemGroup>
+
+</Project>
