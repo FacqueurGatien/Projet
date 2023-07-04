@@ -1,0 +1,51 @@
+#header
+{
+    background: linear-gradient(#FFFFFF22,#00000022,#00000022);
+    width: 100%;
+    border-bottom: 0.15em solid rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+#navHeader
+{
+    text-align: right;
+    padding:1em 1em 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1em;
+}
+#aHead
+{
+    padding: 0.5em 0 0.5em 0.8em;
+}
+#navHeader a
+{
+    color: var(--linkColor);
+    margin-right: 2em;
+    text-decoration: none;
+}
+#navHeader a:hover
+{
+    color: var(--textColor);
+}
+#iconDMSpan
+{
+    margin-bottom: 1em;
+}
+#iconDM
+{
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    font-size: 1.5em;
+}
+#iconDM:hover
+{
+    background-color: var(--textColor);
+    border-radius: 50%;
+    box-shadow: 0 0 1em var(--halo), inset 0 0 0.5em var(--linkColor);
+}
+#logoSite
+{
+    margin-left: 0.2em;
+    width: 10em;
+}

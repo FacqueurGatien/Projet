@@ -1,0 +1,12 @@
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\bin\Debug\net6.0\00Additionneur.deps.json
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\bin\Debug\net6.0\00Additionneur.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\bin\Debug\net6.0\00Additionneur.pdb
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.csproj.AssemblyReference.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.AssemblyInfoInputs.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.AssemblyInfo.cs
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.csproj.CoreCompileInputs.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\refint\00Additionneur.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\00Additionneur.pdb
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\ClasseExo\obj\Debug\net6.0\ref\00Additionneur.dll

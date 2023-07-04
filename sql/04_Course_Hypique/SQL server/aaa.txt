@@ -1,0 +1,17 @@
+SELECT 
+	PARIS.pari_id,
+	CHEVAUX.cheval_id,
+	PRONOSTIQUES.pronostique_position_cheval,
+	PARIS.course_id
+FROM PARIS
+INNER JOIN PRONOSTIQUES ON PRONOSTIQUES.pari_id = PARIS.pari_id
+INNER JOIN CHEVAUX ON CHEVAUX.cheval_id = PRONOSTIQUES.cheval_id;
+
+SELECT 
+	COURSES.course_id,
+	CHEVAUX.cheval_id,
+	PARTICIPANTS.participant_position_final,
+FROM COURSES
+INNER JOIN PARTICIPANTS ON PARTICIPANTS.course_id = COURSES.course_id
+INNER JOIN CHEVAUX ON CHEVAUX.cheval_id = PARTICIPANTS.cheval_id;
+	

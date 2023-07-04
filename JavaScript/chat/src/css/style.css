@@ -1,0 +1,117 @@
+html
+{
+    font-size: 62.5%;
+    height: 100%;
+}
+body
+{
+    /* --mainColor:#843175;
+    --footerColor:#772c68;
+    --linkColor:#FF9900;
+    --textColor:#FFFFCC;
+    --halo:white; 
+    background-color: var(--mainColor);
+    color:var(--textColor);*/
+    background-image: url("https://i.pinimg.com/originals/d8/39/74/d839742a057e1d111d0373fa614de906.jpg");
+    background-size: cover ;
+    background-attachment: fixed;
+    color: #457B9D;
+    font-size: 1.6em;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+header
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #E63946;
+}
+h1
+{
+    font-weight: normal;
+    margin: 0;
+}
+#vue
+{
+    margin: 0;
+}
+main
+{
+    display: flex;
+    align-items: center ;
+    flex-direction: column;
+    text-align: justify;
+    width: 70%;
+    height: 70%;
+    overflow: auto;
+}
+table
+{
+    width: 60%;
+    font-size: 1.4em;
+    border: 0.1em solid #457B9D !important;
+    border-collapse: collapse;
+    overflow: auto;
+}
+td
+{
+    border-right:0.1em solid #457B9D ;
+    border-bottom:0.1em solid rgba(255,255,255,0.1) ;
+}
+th
+{
+    border-right:0.1em solid #457B9D ;
+    border-bottom:0.1em solid #457B9D ;
+}
+#narutoWiki
+{
+    overflow: auto;
+    padding: 2%;
+}
+h2
+{
+    color: #E63946;
+}
+.var
+{
+    font-weight: bold;
+    color: lightcoral;
+    size: 1.6em;
+}
+aside
+{
+    width: 30%;
+}
+li
+{
+    color: #A8DADC;
+}
+ul , ol
+{
+    color: 84A59D;
+}
+#buttonAside
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 1% 10% 1% 10%;
+}
+input
+{
+    width: 80%;
+}
+footer
+{
+    width: 100%;
+    height: 8%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+
+}

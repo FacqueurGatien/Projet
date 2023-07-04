@@ -1,0 +1,83 @@
+USE Bibliotheque;
+
+DROP TABLE IF EXISTS AUTEURS_LIVRE;
+DROP TABLE IF EXISTS EMPRUNTS;
+DROP TABLE IF EXISTS LIVRES;
+DROP TABLE IF EXISTS CLIENTS;
+DROP TABLE IF EXISTS ETATS;
+DROP TABLE IF EXISTS EDITEURS;
+DROP TABLE IF EXISTS AUTEURS;
+DROP TABLE IF EXISTS ADRESSES;
+
+
+CREATE TABLE ADRESSES(
+   adresse_id INT IDENTITY(1,1),
+   adresse_numero SMALLINT NOT NULL,
+   adresse_ext_num CHAR(10),
+   adresse_voie VARCHAR(50) NOT NULL,
+   adresse_complement VARCHAR(100),
+   adresse_ville VARCHAR(50) NOT NULL,
+   adresse_cp CHAR(5) NOT NULL,
+   PRIMARY KEY(adresse_id)
+);
+
+CREATE TABLE AUTEURS(
+   auteur_id INT IDENTITY(1,1),
+   auteur_nom VARCHAR(100) NOT NULL,
+   auteur_prenom VARCHAR(100),
+   PRIMARY KEY(auteur_id)
+);
+
+CREATE TABLE EDITEURS(
+   editeur_id INT IDENTITY(1,1),
+   editeur_nom VARCHAR(100) NOT NULL,
+   PRIMARY KEY(editeur_id)
+);
+
+CREATE TABLE ETATS(
+   etat_id INT IDENTITY(1,1),
+   etat_libelle VARCHAR(20) NOT NULL,
+   PRIMARY KEY(etat_id)
+);
+
+CREATE TABLE CLIENTS(
+   client_id INT IDENTITY(1,1),
+   client_nom VARCHAR(100) NOT NULL,
+   client_prenom VARCHAR(100) NOT NULL,
+   client_caution DECIMAL(5,2) NOT NULL,
+   adresse_id INT NOT NULL,
+   PRIMARY KEY(client_id),
+   FOREIGN KEY(adresse_id) REFERENCES ADRESSES(adresse_id) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+CREATE TABLE LIVRES(
+   livre_id INT IDENTITY,
+   livre_isbn CHAR(17),
+   livre_titre VARCHAR(255) NOT NULL,
+   livre_etat_commentaire VARCHAR(max),
+   livre_date_achat DATE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+   etat_id INT NOT NULL,
+   editeur_id INT NOT NULL,
+   PRIMARY KEY(livre_id),
+   FOREIGN KEY(etat_id) REFERENCES ETATS(etat_id) ON UPDATE CASCADE ON DELETE CASCADE,
+   FOREIGN KEY(editeur_id) REFERENCES EDITEURS(editeur_id) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+CREATE TABLE EMPRUNTS(
+   client_id INT,
+   livre_id INT,
+   emprunt_date_pret DATETIME2 DEFAULT CURRENT_TIMESTAMP,
+   emprunt_date_retour DATE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+   PRIMARY KEY(client_id, livre_id, emprunt_date_pret),
+   FOREIGN KEY(client_id) REFERENCES CLIENTS(client_id) ON UPDATE CASCADE ON DELETE CASCADE,
+   FOREIGN KEY(livre_id) REFERENCES LIVRES(livre_id) ON UPDATE CASCADE ON DELETE CASCADE
+);
+
+CREATE TABLE AUTEURS_LIVRE(
+   livre_id INT,
+   auteur_id INT,
+   date_finalisation DATE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+   PRIMARY KEY(livre_id, auteur_id),
+   FOREIGN KEY(livre_id) REFERENCES LIVRES(livre_id) ON UPDATE CASCADE ON DELETE CASCADE,
+   FOREIGN KEY(auteur_id) REFERENCES AUTEURS(auteur_id) ON UPDATE CASCADE ON DELETE CASCADE
+);

@@ -1,0 +1,33 @@
+header
+{
+    width: 90%;
+    margin: auto;
+    background: lightcyan;
+    border: 2px solid black;
+}
+.containt
+{
+    background: lightgreen;
+    border: 2px solid darkgrey;
+    margin: auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+aside
+{
+    background-color: lightgoldenrodyellow;
+    width: 25%;
+}
+main
+{
+    background-color: lightcoral;
+    width: 75%;
+}
+footer
+{
+    width: 90%;
+    margin: auto;
+    background-color: lightpink;
+    border: 2px solid darkolivegreen;
+}

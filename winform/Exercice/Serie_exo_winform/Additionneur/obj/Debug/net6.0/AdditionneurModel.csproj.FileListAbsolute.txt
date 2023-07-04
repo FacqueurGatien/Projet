@@ -1,0 +1,17 @@
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\AdditionneurModel.exe
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\AdditionneurModel.deps.json
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\AdditionneurModel.runtimeconfig.json
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\AdditionneurModel.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\AdditionneurModel.pdb
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.csproj.AssemblyReference.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.AssemblyInfoInputs.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.AssemblyInfo.cs
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.csproj.CoreCompileInputs.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.csproj.CopyComplete
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\refint\AdditionneurModel.dll
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.pdb
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\AdditionneurModel.genruntimeconfig.cache
+C:\Users\gafacqueur\Documents\repos_laragon\CDA\Winform\Exercice\Serie_exo_winform\Additionneur\obj\Debug\net6.0\ref\AdditionneurModel.dll

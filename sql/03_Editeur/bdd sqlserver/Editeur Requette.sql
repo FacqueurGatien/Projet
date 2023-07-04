@@ -1,0 +1,10 @@
+use editeur;
+
+SELECT 
+	* 
+FROM commandes_edition
+INNER JOIN EDITIONS ON EDITIONS.edition_isbn = COMMANDES_EDITION.edition_isbn
+INNER JOIN LIVRES ON  LIVRES.livre_id = EDITIONS.livre_id
+INNER JOIN RECOMPENSES ON RECOMPENSES.livre_id = LIVRES.livre_id
+INNER JOIN PRIX ON PRIX.prix_id = RECOMPENSES.prix_id
+WHERE EDITIONS.edition_isbn = '123-5678-1012-010';

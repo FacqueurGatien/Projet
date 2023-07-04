@@ -1,0 +1,37 @@
+html
+{
+    font-size: 62.5%;
+    height: 100%;
+}
+body
+{
+    --mainColor:#843175;
+    --footerColor:#772c68;
+    --linkColor:#FF9900;
+    --textColor:#FFFFCC;
+    --halo:white;
+    margin: 0;
+    background-color: var(--mainColor);
+    font-size: 1.6em;
+    justify-content: center;
+    height: 100%;
+    color:var(--textColor);
+    font-family: 'OpenDyslexicRegular';
+    /* transition: all 0.5s ease-in-out; */
+}
+.lightBody
+{
+    --mainColor:#FFFFCC;
+    --footerColor:#e5e5ba;
+    --linkColor:#FF9900;
+    --textColor:#843175;
+    --halo:black;
+}
+p
+{
+    text-align: justify;
+    line-height: 1.5em;
+    margin: 0 0.5em 0 0.5em;
+}
+
+

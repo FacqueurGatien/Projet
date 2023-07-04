@@ -1,0 +1,3 @@
+Scaffold-DbContext "Server=CRM-UC-3922\SQLEXPRESS;User ID=sa;Password=Cdi1234;Database=CitiesDb;Trusted_Connection=False;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+CRM-UC-3922\SQLEXPRESS

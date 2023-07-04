@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FFColorPreviewAlternativeMVC/1.0.0": {
+        "runtime": {
+          "FFColorPreviewAlternativeMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FFColorPreviewAlternativeMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

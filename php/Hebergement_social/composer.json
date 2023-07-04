@@ -1,0 +1,19 @@
+{
+    "name": "sora/hebergement_site",
+    "description": "none",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "soraMukai",
+            "email": "facqueur.gatien@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hebergement\\": ""
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
