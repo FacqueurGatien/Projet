@@ -1,0 +1,12 @@
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\bin\Debug\net6.0\ReservationModel.deps.json
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\bin\Debug\net6.0\ReservationModel.dll
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\bin\Debug\net6.0\ReservationModel.pdb
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.csproj.AssemblyReference.cache
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.AssemblyInfoInputs.cache
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.AssemblyInfo.cs
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.csproj.CoreCompileInputs.cache
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.dll
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\refint\ReservationModel.dll
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ReservationModel.pdb
+E:\SoraDev\Projet\DesignPattern\Reservation\ReservationModel\ReservationModel\obj\Debug\net6.0\ref\ReservationModel.dll

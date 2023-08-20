@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReservationWinform/1.0.0": {
+        "dependencies": {
+          "ReservationModel": "1.0.0"
+        },
+        "runtime": {
+          "ReservationWinform.dll": {}
+        }
+      },
+      "ReservationModel/1.0.0": {
+        "runtime": {
+          "ReservationModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReservationWinform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReservationModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
