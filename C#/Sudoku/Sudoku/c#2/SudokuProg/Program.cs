@@ -18,10 +18,7 @@ namespace SudokuProg
             Console.WriteLine($"{result.ResolutionMessage}\n{result}");
 
             Grilles.Models.Grille grilleS = new Grilles.Models.Grille(/*1,*/ result);
-            Console.WriteLine(ChoixAlgorythme.SerialisationData(grilleS));
-
-
-
+            //Console.WriteLine(ChoixAlgorythme.SerialisationData(grilleS));
         }
         public static List<Ligne> GrilleVierge()
         {

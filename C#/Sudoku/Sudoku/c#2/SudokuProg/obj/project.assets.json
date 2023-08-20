@@ -4014,25 +4014,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gafacqueur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\izaya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuProg\\SudokuProg.csproj",
+      "projectUniqueName": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuProg\\SudokuProg.csproj",
       "projectName": "SudokuProg",
-      "projectPath": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuProg\\SudokuProg.csproj",
-      "packagesPath": "C:\\Users\\gafacqueur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuProg\\obj\\",
+      "projectPath": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuProg\\SudokuProg.csproj",
+      "packagesPath": "C:\\Users\\izaya\\.nuget\\packages\\",
+      "outputPath": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuProg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gafacqueur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\izaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4047,14 +4045,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\Grille.Models\\Grille.Models.csproj": {
-              "projectPath": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\Grille.Models\\Grille.Models.csproj"
+            "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\Grille.Models\\Grille.Models.csproj": {
+              "projectPath": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\Grille.Models\\Grille.Models.csproj"
             },
-            "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuAlgo\\SudokuAlgo.Models.csproj": {
-              "projectPath": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuAlgo\\SudokuAlgo.Models.csproj"
+            "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuAlgo\\SudokuAlgo.Models.csproj": {
+              "projectPath": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuAlgo\\SudokuAlgo.Models.csproj"
             },
-            "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuGrille\\SudokuGrille.Models.csproj": {
-              "projectPath": "C:\\Users\\gafacqueur\\Documents\\PartieWeb\\Sudoku\\c#2\\SudokuGrille\\SudokuGrille.Models.csproj"
+            "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuGrille\\SudokuGrille.Models.csproj": {
+              "projectPath": "E:\\SoraDev\\Projet\\C#\\Sudoku\\Sudoku\\c#2\\SudokuGrille\\SudokuGrille.Models.csproj"
             }
           }
         }
@@ -4106,7 +4104,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
